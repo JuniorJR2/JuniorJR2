@@ -10,7 +10,7 @@ Mi enfoque está en desarrollar soluciones funcionales, escalables y bien estruc
 ## 🚀 Sobre mí
 
 - 🎓 Ingeniero en Sistemas Computacionales por el Instituto Tecnológico Superior de Comalcalco (Promedio: **9.5**)  
-- 🧠 Autodidacta, proactivo y siempre explorando nuevas tecnologías del entorno **JavaScript**  
+- 🧠 Autodidacta, proactivo y siempre explorando nuevas tecnologías en el entorno **WEB**  
 - 🧩 Experiencia en proyectos web completos: desde el diseño de interfaz hasta la lógica del servidor y gestión de base de datos  
 - 🔍 Conocimientos complementarios en **Java**, **C++** y **Laravel (PHP)**  
 - 🌱 Actualmente aprendiendo y perfeccionando mis habilidades en **React**, **Docker** y **Express.js**
@@ -20,16 +20,16 @@ Mi enfoque está en desarrollar soluciones funcionales, escalables y bien estruc
 ## 🛠️ Tecnologías y Herramientas
 
 **Frontend:**  
-`HTML5` · `CSS3` · `TailwindCSS` · `JavaScript` · `EJS`  
+`HTML5` · `CSS3` · `TailwindCSS` · `JavaScript` · `EJS` · `Boostrap` · `React`    
 
 **Backend:**  
-`Node.js` · `Express` · `Laravel` · `PHP`  
+`Node.js` · `Express` · `Laravel` · `PHP`· `C++` · `Java`     
 
 **Base de Datos:**  
 `MySQL` · `SQL Server` · `phpMyAdmin`  
 
 **Otros:**  
-`Git` · `XAMPP` · `Vite` · `Docker`  
+`Git` · `XAMPP` · `Vite` · `Docker` · `Azure` · `Railway` · `Vercel`     
 
 ---
 
@@ -52,13 +52,16 @@ Desarrollo de una plataforma institucional para la gestión de roles, contenido 
 - 🎖️ **ICPC Gran Premio de México (2019, 2021)** – Mención honorífica  
 - 🏅 **Coding Cup TECNM (2021)** – Representación del ITS Comalcalco a nivel nacional  
 - 📘 **Fundamentos esenciales de la programación – LinkedIn (2023)**  
-- 📘 **Desarrollo Web (HTML, CSS, JS) – Udemy (En curso)**  
+- 📘 **Desarrollo Web (HTML, CSS, JS) – Udemy (En curso)**
+- 📘 **Node Esencial – LinkedIn (2025)**
+- 📘 **Microsoft Azure AI Essentials de Microsoft y LinkedIn (2025)**
+
 
 ---
 
 ## 🌐 Enlaces
 
-🌎 **Portafolio:** [tu-portafolio-web.com](#)  
+🌎 **Portafolio:** (https://portafolio-web-seven-self.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/ramon-de-jesus-gallegos-cordova](https://www.linkedin.com/in/ramon-de-jesus-gallegos-cordova-8b6312276/)  
 🐱 **GitHub:** [github.com/JuniorJR2](https://github.com/JuniorJR2)
 
