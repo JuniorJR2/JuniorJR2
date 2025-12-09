@@ -54,6 +54,7 @@ Desarrollo de una plataforma institucional para la gestión de roles, contenido 
 - 📘 **Fundamentos esenciales de la programación – LinkedIn (2023)**  
 - 📘 **Desarrollo Web (HTML, CSS, JS) – Udemy (En curso)**
 - 📘 **Node Esencial – LinkedIn (2025)**
+- 📘 **React Esencial – LinkedIn (2025)**
 - 📘 **Microsoft Azure AI Essentials de Microsoft y LinkedIn (2025)**
 
 
